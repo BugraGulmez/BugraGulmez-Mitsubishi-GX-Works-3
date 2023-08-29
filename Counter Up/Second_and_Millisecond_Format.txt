@@ -1,0 +1,3 @@
+** PLC' de zamanlayıcılar **
+<<T#*s>> formatı kullanılırsa <<*>> yerine yazılacak zaman << saniye >>  birimlerinde olacaktır.
+<<T#*ms>> formatı kullanılırsa <<*>> yerine yazılacak zaman << mili saniye >>  birimlerinde olacaktır.

@@ -1,0 +1,3 @@
+When the system start command is given (x0_n0), the conveyor will move in the forward direction for 10 seconds (y0).
+At the end of 10 seconds, the conveyor will move in the reverse direction (y1). After the conveyor starts working, the
+the conveyor will stop after counting 7 products connected to the sensor (x1) input.
